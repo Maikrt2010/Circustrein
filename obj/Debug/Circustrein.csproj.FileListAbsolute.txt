@@ -1,0 +1,5 @@
+D:\School\S2 herstart\Circustrein\Circustrein\bin\Debug\Circustrein.dll
+D:\School\S2 herstart\Circustrein\Circustrein\bin\Debug\Circustrein.pdb
+D:\School\S2 herstart\Circustrein\Circustrein\obj\Debug\Circustrein.csprojAssemblyReference.cache
+D:\School\S2 herstart\Circustrein\Circustrein\obj\Debug\Circustrein.dll
+D:\School\S2 herstart\Circustrein\Circustrein\obj\Debug\Circustrein.pdb
