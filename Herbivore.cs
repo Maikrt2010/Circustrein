@@ -14,7 +14,8 @@ namespace Circustrein
         { 
         //bool fitts = Allreadyloaded.Exists(x => x.animaltype == Animaltype.carnivore && x.Size < Size );
         bool fitts = false;
-        if(Allreadyloaded.Exists(x => x.animaltype == Animaltype.carnivore))
+        if (Allreadyloaded.Exists(x => x.animaltype == Animaltype.carnivore))
+        {
             foreach (var y in Allreadyloaded)
             {
                 if (y.animaltype == Animaltype.carnivore && y.Size > Size)
@@ -26,6 +27,7 @@ namespace Circustrein
                     fitts = true;
                 }
             }
+        }
         else
         {
             return true;

@@ -17,7 +17,6 @@ namespace Circustrein
         public List<Animal> LoadedAnimals
         {
             get => _loadedAnimals;
-            set => _loadedAnimals = value;
         }
 
         public bool LoadWagon()

@@ -23,7 +23,6 @@ namespace Circustrein
         {
             _animalid = animalid;
             _size = size;
-            _animaltype = type;
         }
 
         public abstract bool WillIFitt(List<Animal> Allreadyloaded);
